@@ -3,11 +3,11 @@
 ## Project Structure
 
 - [ ] Create the following packages:
-  - [ ] `to_do_api.model`: Contains the model classes that represent the data in your application.
-  - [ ] `to_do_api.repository`: Contains the repository interfaces that provide methods for accessing and manipulating data in the database.
-  - [ ] `to_do_api.service`: Contains the service classes that implement the business logic of your application.
-  - [ ] `to_do_api.controller`: Contains the controller classes that handle incoming HTTP requests and delegate to the service layer.
-  - [ ] `to_do_api.api`: Contains the classes that define the API of your application.
+  - [ ] `do_api.model`: Contains the model classes that represent the data in your application.
+  - [ ] `do_api.repository`: Contains the repository interfaces that provide methods for accessing and manipulating data in the database.
+  - [ ] `do_api.service`: Contains the service classes that implement the business logic of your application.
+  - [ ] `do_api.controller`: Contains the controller classes that handle incoming HTTP requests and delegate to the service layer.
+  - [ ] `do_api.api`: Contains the classes that define the API of your application.
 
 ## Business Layer
 

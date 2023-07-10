@@ -20,6 +20,6 @@
 ## Exception Handling
 
 - [ ] Implement a global exception handler:
-  - [ ] Create a class named `GlobalExceptionHandler` in the `to_do_api.controller` package.
+  - [ ] Create a class named `GlobalExceptionHandler` in the `do_api.controller` package.
   - [ ] Annotate the class with `@ControllerAdvice` to indicate that it is a global exception handler.
   - [ ] Add methods to the class annotated with `@ExceptionHandler` to handle specific exceptions.
